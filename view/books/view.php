@@ -39,7 +39,6 @@
                                 <?php $i = 1;
                                 while ($data = mysqli_fetch_assoc($query)) : ?>
                                     <tr>
-                                    <tr>
                                         <td><?= $i++ ?></td>
                                         <td><?= $data['title'] ?></td>
                                         <td><?= $data['author'] ?></td>
