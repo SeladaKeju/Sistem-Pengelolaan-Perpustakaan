@@ -1,11 +1,11 @@
 
 # Sistem Manajemen Perpustakaan
 
-Aplikasi web untuk mengelola buku, anggota, serta sistem peminjaman dan pengembalian buku di perpustakaan.
+Aplikasi web ini merupakan CRUD sederhana menggunakan PHP native yang memungkinkan pengelolaan data buku, anggota, serta sistem peminjaman dan pengembalian buku di perpustakaan.
 
 
 
-## 🔹 Fitur Utama
+## Fitur Utama
 - **Manajemen Buku**  
   - Tambah, edit, hapus, dan cari buku berdasarkan judul, publisher, halaman, tahun penerbitan, atau pengarang.  
 
@@ -22,14 +22,12 @@ Aplikasi web untuk mengelola buku, anggota, serta sistem peminjaman dan pengemba
   - Lihat daftar anggota aktif  
   - Cek pemasukan dari denda  
 
-- **Login**  
-
-## 🛠 Teknologi
+## Teknologi
 - Frontend: Bootstrap, HTML, CSS
 - Backend: PHP
 - Database: MySQL
 
-## 🚀 Instalasi
+## Instalasi
 - Clone repository
  ```sh
    https://github.com/SeladaKeju/Sistem-Pengelolaan-Perpustakaan.git
