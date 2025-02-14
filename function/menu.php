@@ -15,6 +15,9 @@ if (isset($_GET['page'])) {
         case 'loans';
             include 'view/loans/view.php';
             break;
+        case 'dashboard';
+            include 'view/dashboard/view.php';
+            break;
         
         // create
         case 'members-create';
